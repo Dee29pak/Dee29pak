@@ -2,7 +2,7 @@
 
 # Hi, I'm Deepak Khatreja 👋
 
-**Full-Stack Developer** | AI Integration | Expertise in Scalable Web Applications | System Architecture, and End-to-End Development
+Full-Stack Developer | AI Integration | Expertise in Scalable Web Applications | System Architecture, and End-to-End Development
 
 B.Tech CSE (CGPA 9.09) · Gurugram, India · Open to Frontend, Full-Stack and Junior Software Engineer roles
 
