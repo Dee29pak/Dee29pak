@@ -57,10 +57,15 @@ Python recommender that suggests places from user preferences.
 ## Experience
 
 **Frontend Developer · Worxwide Consulting Pvt. Ltd.** · Jan 2026 – Jul 2026
-- Built reusable, responsive React components from Figma designs (validated form, chart dashboard etc.) for Salesworx, an AI-powered CRM
-- Implemented forms (React Hook Form + Zod), API-driven data (TanStack Query + Axios), charts (Recharts), animation (Framer Motion) and global state (Zustand)
-- Debugged integration issues across a multi-service environment (React client, backend, AI server, Docker)
-- Researched SOC 2, GDPR and India's DPDPA, and CRM webhook integrations (Zoho, HubSpot); published blog content via a headless WordPress CMS
+- Converted Figma designs into reusable, production-ready React.js components, including a validated form and a chart
+dashboard, for Salesworx, an AI-powered CRM platform, matching layouts and interactions pixel-accurately and keeping them
+fully responsive across mobile, tablet and desktop with Tailwind CSS.
+- Built interactive frontend features: validated forms (React Hook Form + Zod), API-driven data (TanStack Query + Axios),
+charts (Recharts) and animated UI (Framer Motion, HeroUI, Floating UI), with global state in Zustand.
+- Tested components against a live multi-service environment (React client, backend server, AI server, Docker), debugging
+integration issues and incorporating senior developer feedback.
+- Researched SOC 2, GDPR and India’s DPDPA compliance and Zoho CRM / HubSpot webhook integrations; managed and
+published blog content for Worxsquad through a headless WordPress CMS.
 
 ## Education and Certifications
 
